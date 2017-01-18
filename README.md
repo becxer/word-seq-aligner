@@ -2,7 +2,7 @@
 
 ## Usage
 
-        $./WER.py reference.txt target.txt
+        $./Aligner.py reference.txt target.txt
 
         ----------------------------------------------------
         REF : 겐지  가  함께  한다 (8)
